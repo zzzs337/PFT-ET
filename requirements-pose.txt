@@ -1,0 +1,4 @@
+# Separate preprocessing environment; install matching compiled MMCV via OpenMMLab.
+mmpose==1.3.2
+mmengine==0.10.7
+mmcv==2.1.0
